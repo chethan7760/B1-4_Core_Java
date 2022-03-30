@@ -15,7 +15,9 @@ public class Constructor {
 	public static void main(String[] args) 
 	{
 		Constructor c=new Constructor("welcome",11);
+		Constructor c1=new Constructor("home",25);
 		c.display();
+		c1.display();
 	
 		// TODO Auto-generated method stub
 		
