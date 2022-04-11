@@ -16,7 +16,7 @@ public class Overloading1
 	{
 		Overloading o=new Overloading();
 		o.assign(5,10);
-		o.assign(10, 20);
+		o.assign(10f,20f);
 		
 
 	}
